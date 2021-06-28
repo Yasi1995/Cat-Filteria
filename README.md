@@ -4,6 +4,6 @@ React native application with Different Filters applied to an image on the top, 
 
 ## SCREENS
 
-![filters](./img/filter1.png)
-![filters](./img/fliter2.png)
+![filters](./img/filter1Potrait.png)
+![filters](./img/fliter2Potrait.png)
 
